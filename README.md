@@ -5,7 +5,7 @@ Content of tests were actual for 2018 year.
  
 ## How to run project
 **Android:** install ZNOUkrLit.apk from root folder  
-**Windows:** unarchive UkrLitZNOTests/win/UkrLitZNO.rar and run UkrLitZNO.exe  
+**Windows:** unarchive UkrLitZNO.rar and run UkrLitZNO.exe  
   
 ## Screenshots:
 ![photo_2018-08-26_23-26-58](https://user-images.githubusercontent.com/45400934/116779733-bc806900-aa80-11eb-90fa-05d51b7c970d.jpg)
