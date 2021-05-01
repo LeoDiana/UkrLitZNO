@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Compositions>
+  <Composition>
+    <Name>Ой Морозе, Морозенку</Name>
+    <Autor>Народ</Autor>
+    <Genre>Історична пісня</Genre>
+    <Place>Національно-визвольна війна 1648-1654, степ, Савур-могила</Place>
+  </Composition>
+  <Composition>
+    <Name>Чи не той то Хміль</Name>
+    <Autor>Народ</Autor>
+    <Genre>Історична пісня</Genre>
+    <Place>Національно-визвольна війна 1648-1654, урочище Жовті Води (Золотий Брід)</Place>
+  </Composition>
+  <Composition>
+    <Name>Віють вітри</Name>
+    <Autor>Маруся Чурай </Autor>
+    <Genre>Лірична пісня</Genre>
+  </Composition>
+  <Composition>
+    <Name>За світ встали козаченьки</Name>
+    <Autor>Маруся Чурай </Autor>
+    <Genre>Літературна козацька пісня</Genre>
+  </Composition>
+  <Composition>
+    <Name>Маруся Богуславка</Name>
+    <Autor>Народ</Autor>
+    <Genre>Дума</Genre>
+    <Place>Напередодні Великодня, Туреччина</Place>
+  </Composition>
+  <Composition>
+    <Name>Ой летіла стріла</Name>
+    <Autor>Народ</Autor>
+    <Genre>Балада</Genre>
+    <Place>Вдовине поле</Place>
+  </Composition>
+  
+  
+  <Composition>
+    <Name>Повість минулих літ</Name>
+    <Autor>Нестор Літописець</Autor>
+    <Movement>Монументалізм</Movement>
+    <Genre>Літопис</Genre>
+  </Composition>
+  <Composition>
+    <Name>Слово про похід Ігорів</Name>
+    <Autor>Невідомий</Autor>
+    <Movement>Орнаменталізм</Movement>
+    <Genre>Героїчна поема; повість</Genre>
+  </Composition>
+  <Composition>
+    <Name>De libertate</Name>
+    <Autor>Григорій Сковорода</Autor>
+    <Movement>Бароко</Movement>
+    <Genre>Ода</Genre>
+  </Composition>
+  <Composition>
+    <Name>Всякому місту – звичай і права</Name>
+    <Autor>Григорій Сковорода</Autor>
+    <Movement>Бароко</Movement>
+    <Genre>Філософсько-сатирична поезія</Genre>
+  </Composition>
+  <Composition>
+    <Name>Бджола та Шершень</Name>
+    <Autor>Григорій Сковорода</Autor>
+    <Movement>Бароко</Movement>
+    <Genre>Байка</Genre>
+  </Composition>
+  
+  
+  <Composition>
+    <Name>Енеїда</Name>
+    <Autor>Іван Котляревський</Autor>
+    <Movement>Класицизм (просвітницький реалізм)</Movement>
+    <Genre>Бурлескно-травестійна поема</Genre>
+    <Place>Карфаген, острів Сицилія, пекло, Латинська земля</Place>
+  </Composition>
+  <Composition>
+    <Name>Наталка Полтавка</Name>
+    <Autor>Іван Котляревський</Autor>
+    <Movement>Класицизм (просвітницький реалізм)</Movement>
+    <Genre>Малоросійська опера у двох діях</Genre>
+    <Place>Село під Полтавою</Place>
+    <Characters>
+      <Character>Наталка</Character>
+      <Character>Петро</Character>
+      <Character>Микола</Character>
+      <Character>Горпина Терпелиха</Character>
+      <Character>Возний Тетраковський</Character>
+      <Character>Виборний Макогоненко</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Маруся</Name>
+    <Autor>Григорій Квітка-Основ'яненко</Autor>
+    <Movement>Сентименталізм</Movement>
+    <Genre>Повість</Genre>
+    <Characters>
+      <Character>Маруся</Character>
+      <Character>Наум Дрот</Character>
+      <Character>Настя Дрот</Character>
+      <Character>Василь</Character>
+      <Character>Олена</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Катерина</Name>
+    <Autor>Тарас Шевченко</Autor>
+    <Movement>Романтизм</Movement>
+    <Genre>Соціально-побутова поема</Genre>
+    <Dedicaded>В. А. Жуковському</Dedicaded>
+    <Characters>
+      <Character>Катерина</Character>
+      <Character>Іван</Character>
+      <Character>Івась</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Гайдамаки</Name>
+    <Autor>Тарас Шевченко</Autor>
+    <Movement>Романтизм</Movement>
+    <Genre>Історико-героїчна поема</Genre>
+    <Dedicaded>В. І. Григоровичу</Dedicaded>
+    <Place>Коліївщина(1768-1769). Чигирин, Умань, Лебедин, Лисянка, Вільшана</Place>
+    <Characters>
+      <Character>Ярема Галайда</Character>
+      <Character>Оксана</Character>
+      <Character>Максим Залізняк</Character>
+      <Character>Іван Гонта</Character>
+      <Character>Конфедерати</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Кавказ</Name>
+    <Autor>Тарас Шевченко</Autor>
+    <Movement>Реалізм</Movement>
+    <Genre>Сатирична поема</Genre>
+    <Dedicaded>"Искреннему моему Якову де Бальмену"</Dedicaded>
+  </Composition>
+  <Composition>
+    <Name>Сон</Name>
+    <Autor>Тарас Шевченко</Autor>
+    <Movement>Реалізм</Movement>
+    <Genre>Сатирична поема</Genre>
+    <Place>Україна, Сибір, Петербург</Place>
+  </Composition>
+  <Composition>
+    <Name>І мертвим, і живим, і ненарожденним…</Name>
+    <Autor>Тарас Шевченко</Autor>
+    <Movement>Реалізм</Movement>
+    <Genre>Послання</Genre>
+  </Composition>
+  <Composition>
+    <Name>Заповіт</Name>
+    <Autor>Тарас Шевченко</Autor>
+    <Movement>Реалізм</Movement>
+    <Genre>Ліричний вірш</Genre>
+  </Composition>
+  <Composition>
+    <Name>Чорна рада</Name>
+    <Autor>Пантелеймон Куліш</Autor>
+    <Movement>Романтизм</Movement>
+    <Genre>Історичний роман</Genre>
+    <Place>1663 р.(доба Руїни). Київ, Ніжин, хутір Хмарище, Романівський Кут</Place>
+    <Characters>
+      <Character>Яким Сомко</Character>
+      <Character>Павло Тетеря</Character>
+      <Character>Кирило Тур</Character>
+      <Character>Іван Шрам</Character>
+      <Character>Петро Шраменко</Character>
+      <Character>Леся</Character>
+      <Character>Михайло Черевань</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Кайдашева сім’я</Name>
+    <Autor>Іван Нечуй-Левицький</Autor>
+    <Movement>Реалізм</Movement>
+    <Genre>Соціально-побутова повість</Genre>
+    <Place>Семигори, Біївці, Київ</Place>
+    <Characters>
+      <Character>Омелько Кайдаш</Character>
+      <Character>Кайдашиха</Character>
+      <Character>Карпо</Character>
+      <Character>Лаврін</Character>
+      <Character>Мотря</Character>
+      <Character>Мелашка</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Хіба ревуть воли, як ясла повні?</Name>
+    <Autor>Панас Мирний</Autor>
+    <Movement>Реалізм</Movement>
+    <Genre>Соціально-психологічний роман</Genre>
+    <Place>с. Піски</Place>
+    <Characters>
+      <Character>Чіпка Варениченко</Character>
+      <Character>Мотря</Character>
+      <Character>Іван Вареник</Character>
+      <Character>Оришка</Character>
+      <Character>Грицько Чупруненко</Character>
+      <Character>Христя</Character>
+      <Character>Максим Ґудзь</Character>
+      <Character>Явдоха</Character>
+      <Character>Галя</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Мартин Боруля</Name>
+    <Autor>Іван Карпенко-Карий</Autor>
+    <Movement>Реалізм</Movement>
+    <Genre>Трагікомедія</Genre>
+    <Characters>
+      <Character>Мартин Боруля</Character>
+      <Character>Палажка</Character>
+      <Character>Марися</Character>
+      <Character>Степан</Character>
+      <Character>Геврасій Гуляницький</Character>
+      <Character>Микола</Character>
+      <Character>Націєвський</Character>
+      <Character>Красовський</Character>
+      <Character>Трандалєв</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Гімн</Name>
+    <Autor>Іван Франко</Autor>
+    <Movement>Реалізм</Movement>
+    <Genre>Гімн (ліричний вірш)</Genre>
+  </Composition>
+  <Composition>
+    <Name>Чого являєшся мені у сні</Name>
+    <Autor>Іван Франко</Autor>
+    <Movement>Реалізм</Movement>
+    <Genre>Інтимна лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>Мойсей</Name>
+    <Autor>Іван Франко</Autor>
+    <Movement>Реалізм</Movement>
+    <Genre>Філософська поема</Genre>
+  </Composition>
+  
+    
+  <Composition>
+    <Name>Тіні забутих предків</Name>
+    <Autor>Михайло Коцюбинський</Autor>
+    <Movement>Імпресіонізм</Movement>
+    <Genre>Повість</Genre>
+    <Place>Гуцульщина, Карпати, біля р.Черемош</Place>
+    <Characters>
+      <Character>Іван Палійчук</Character>
+      <Character>Марічка Гутенюк</Character>
+      <Character>Палагна</Character>
+      <Character>Юра</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Intermezzo</Name>
+    <Autor>Михайло Коцюбинський</Autor>
+    <Movement>Імпресіонізм</Movement>
+    <Genre>Новела</Genre>
+    <Dedicaded>Кононівським полям</Dedicaded>
+    <Place>Кононівка</Place>
+    <Characters>
+      <Character>Моя утома</Character>
+      <Character>Ниви у червні</Character>
+      <Character>Сонце</Character>
+      <Character>Оверко</Character>
+      <Character>Пава</Character>
+      <Character>Трепов</Character>
+      <Character>Зозуля</Character>
+      <Character>Жайворонки</Character>
+      <Character>Залізна рука міста</Character>
+      <Character>Людське горе</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Земля</Name>
+    <Autor>Ольга Кобилянська</Autor>
+    <Movement>Неоромантизм</Movement>
+    <Genre>Повість</Genre>
+    <Dedicaded>Своєму батькові</Dedicaded>
+    <Place>Буковина, село Д, біля р.Серег</Place>
+    <Characters>
+      <Character>Івоніка Федорчук</Character>
+      <Character>Марічка</Character>
+      <Character>Михайло</Character>
+      <Character>Сава</Character>
+      <Character>Рахіра</Character>
+      <Character>Василь Чоп'як</Character>
+      <Character>Докія</Character>
+      <Character>Парасинка</Character>
+      <Character>Тодорика</Character>
+      <Character>Анна</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Contra spem spero!</Name>
+    <Autor>Леся Українка</Autor>
+    <Movement>Неоромантизм</Movement>
+    <Genre>Медитативна лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>Лісова пісня</Name>
+    <Autor>Леся Українка</Autor>
+    <Movement>Неоромантизм</Movement>
+    <Genre>Драма-феєрія</Genre>
+    <Place>Волинь</Place>
+    <Characters>
+      <Character>Лукаш</Character>
+      <Character>Дядько Лев</Character>
+      <Character>Килина</Character>
+      <Character>Мавка</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Блакитна Панна</Name>
+    <Autor>Микола Вороний</Autor>
+    <Movement>Символізм</Movement>
+    <Genre>Пейзажна лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>Чари ночі</Name>
+    <Autor>Олександр Олесь</Autor>
+    <Movement>Символізм</Movement>
+    <Genre>Інтимна лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>О слово рідне! Орле скутий!</Name>
+    <Autor>Олександр Олесь</Autor>
+    <Movement>Символізм</Movement>
+    <Genre>Патріотична лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>О панно Інно</Name>
+    <Autor>Павло Тичина</Autor>
+    <Movement>Символізм</Movement>
+    <Genre>Інтимна лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>Пам'яті тридцяти</Name>
+    <Autor>Павло Тичина</Autor>
+    <Movement>Символізм</Movement>
+    <Genre>Громадянська лірика</Genre>
+    <Place>Аскольдова могила</Place>
+  </Composition>
+  <Composition>
+    <Name>Ви знаєте, як липа шелестить...</Name>
+    <Autor>Павло Тичина</Autor>
+    <Movement>Символізм</Movement>
+    <Genre>Інтимна лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>Молюсь і вірю...</Name>
+    <Autor>Максим Рильський</Autor>
+    <Movement>Неокласицизм</Movement>
+    <Genre>Філософська лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>Київ - традиція</Name>
+    <Autor>Микола Зеров</Autor>
+    <Movement>Неокласицизм</Movement>
+    <Genre>Сонет</Genre>
+  </Composition>
+  <Composition>
+    <Name>Я (Романтика)</Name>
+    <Autor>Микола Хвильовий</Autor>
+    <Movement>Експресіонізм</Movement>
+    <Genre>Новела</Genre>
+    <Dedicaded>"Цвітові яблуні" М.Коцюбинського</Dedicaded>
+    <Place>Палац шляхтича</Place>
+    <Characters>
+      <Character>Я (голова чорного трибуналу)</Character>
+      <Character>Марія</Character>
+      <Character>Доктор Тагабат</Character>
+      <Character>Андрюша</Character>
+      <Character>Дегенерат</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Дитинство</Name>
+    <Autor>Юрій Яновський </Autor>
+    <Movement>Неоромантизм</Movement>
+    <Genre>Новела</Genre>
+    <Place>Перекопська рівнина</Place>
+    <Characters>
+      <Character>Данилко</Character>
+      <Character>Прадід Данило</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Любіть Україну</Name>
+    <Autor>Володимир Сосюра</Autor>
+    <Movement>Неоромантизм</Movement>
+    <Genre>Патріотична лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>Місто</Name>
+    <Autor>Валер’ян Підмогильний</Autor>
+    <Movement>Екзистенціалізм</Movement>
+    <Genre>Урбаністичний роман</Genre>
+    <Place>Київ</Place>
+    <Characters>
+      <Character>Степан Радченко</Character>
+      <Character>Надійка</Character>
+      <Character>Тамара Василівна (мусінька)</Character>
+      <Character>Зоська</Character>
+      <Character>Рита</Character>
+      <Character>Вигорський</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Моя автобіографія</Name>
+    <Autor>Остап Вишня</Autor>
+    <Movement>Соціалістичний реалізм</Movement>
+    <Genre>Гумореска</Genre>
+  </Composition>
+  <Composition>
+    <Name>Сом</Name>
+    <Autor>Остап Вишня</Autor>
+    <Movement>Соціалістичний реалізм</Movement>
+    <Genre>Усмішка</Genre>
+    <Place>річка Оскіл на Харківщині</Place>
+  </Composition>
+  <Composition>
+    <Name>Мина Мазайло</Name>
+    <Autor>Микола Куліш</Autor>
+    <Genre>Сатирична комедія</Genre>
+    <Place>Харків</Place>
+    <Characters>
+      <Character>Мина</Character>
+      <Character>Мокій</Character>
+      <Character>Рина</Character>
+      <Character>Уля</Character>
+      <Character>Лина</Character>
+      <Character>Тьотя Мотя</Character>
+      <Character>Дядько Тарас</Character>
+      <Character>Баронова-Козино</Character>
+      <Character>Тертика</Character>
+      <Character>Аренський</Character>
+      <Character>Губа</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Різдво</Name>
+    <Autor>Богдан-Ігор Антонич</Autor>
+    <Genre>Філосовська лірика</Genre>
+    <Place>Лемківське містечко Дуклі</Place>
+  </Composition>
+  <Composition>
+    <Name>Україна в огні</Name>
+    <Autor>Олександр Довженко</Autor>
+    <Movement>Соціалістичний реалізм</Movement>
+    <Genre>Кіноповість</Genre>
+    <Place>Велика Вітчизняна війна. Тополівка</Place>
+    <Characters>
+      <Character>Лаврін Запорожець</Character>
+      <Character>Тетяна</Character>
+      <Character>Дід Демид</Character>
+      <Character>Христя</Character>
+      <Character>Олеся</Character>
+      <Character>Василь Кравчина</Character>
+      <Character>Ернст фон Крауз</Character>
+      <Character>Людвіг Крауз</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Зачарована Десна</Name>
+    <Autor>Олександр Довженко</Autor>
+    <Movement>Соціалістичний реалізм</Movement>
+    <Genre>Кіноповість</Genre>
+    <Place>річка Десна, Сосниця</Place>
+    <Characters>
+      <Character>Сашко</Character>
+      <Character>Дід Семен</Character>
+      <Character>Баба Марусина</Character>
+      <Character>Одарка Єрмолаївна</Character>
+      <Character>Петро Семенович</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Пісня про рушник</Name>
+    <Autor>Андрій Малишко</Autor>
+    <Movement>Соціалістичний реалізм</Movement>
+    <Genre>Інтимна лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>Ти знаєш, що ти - людина...</Name>
+    <Autor>Василь Симоненко</Autor>
+    <Movement>Шістдесятники</Movement>
+  </Composition>
+  <Composition>
+    <Name>Задивляюсь у твої зіниці...</Name>
+    <Autor>Василь Симоненко</Autor>
+    <Movement>Шістдесятники</Movement>
+    <Genre>Патріотична лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>Залізний острів</Name>
+    <Autor>Олесь Гончар</Autor>
+    <Movement>Соціалістичний реалізм</Movement>
+    <Genre>Новела-засторога</Genre>
+    <Place>Чорне море</Place>
+    <Characters>
+      <Character>Тоня</Character>
+      <Character>Віталик</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Три зозулі з поклоном</Name>
+    <Autor>Григір Тютюнник</Autor>
+    <Movement>Шістдесятники</Movement>
+    <Genre>Новела</Genre>
+    <Dedicaded>Любові Всевишній</Dedicaded>
+    <Place>Сибір</Place>
+    <Characters>
+      <Character>Софія</Character>
+      <Character>Михайло</Character>
+      <Character>Марфа</Character>
+      <Character>Карпо</Character>
+      <Character>Дядько Левко</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Як добре те, що смерті не боюсь я</Name>
+    <Autor>Василь Стус</Autor>
+    <Movement>Шістдесятники</Movement>
+    <Genre>Патріотична і філософська лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>О земле втрачена, явися!</Name>
+    <Autor>Василь Стус</Autor>
+    <Movement>Шістдесятники</Movement>
+    <Genre>Патріотична лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>Балада про соняшник</Name>
+    <Autor>Іван Драч</Autor>
+    <Movement>Шістдесятники</Movement>
+    <Genre>Балада</Genre>
+  </Composition>
+  <Composition>
+    <Name>Страшні слова, коли вони мовчать</Name>
+    <Autor>Ліна Костенко</Autor>
+    <Movement>Шістдесятники</Movement>
+    <Genre>Філософська лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>Українське альфреско</Name>
+    <Autor>Ліна Костенко</Autor>
+    <Movement>Шістдесятники</Movement>
+    <Genre>Філосовська лірика</Genre>
+  </Composition>
+  <Composition>
+    <Name>Маруся Чурай</Name>
+    <Autor>Ліна Костенко</Autor>
+    <Movement>Шістдесятники</Movement>
+    <Genre>Роман у віршах</Genre>
+    <Place>Полтава, Київ</Place>
+    <Characters>
+      <Character>Маруся Чурай</Character>
+      <Character>Гриць Бобренко</Character>
+      <Character>Іван Іскра</Character>
+      <Character>Мартин Пушкар</Character>
+      <Character>Лесько Черкес</Character>
+      <Character>Галя Вишняківна</Character>
+      <Character>Семен Горбань</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Тигролови</Name>
+    <Autor>Іван Багряний</Autor>
+    <Movement></Movement>
+    <Genre>Пригодницький роман</Genre>
+    <Place>Зелений Клин, Сибір, тайга, Уссурійський край, Хабаровськ</Place>
+    <Characters>
+      <Character>Григорій Многогрішний</Character>
+      <Character>Наталка</Character>
+      <Character>Гриць</Character>
+      <Character>Медвин</Character>
+      <Character>Денис Сірко</Character>
+    </Characters>
+  </Composition>
+  <Composition>
+    <Name>Стилет чи стилос?</Name>
+    <Autor>Євген Маланюк</Autor>
+    <Movement>Символізм</Movement>
+    <Genre>Громадянська і філософська лірика</Genre>
+  </Composition>
+</Compositions>

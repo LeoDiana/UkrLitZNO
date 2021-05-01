@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Autors>
+	<Autor>
+		<Name>Панас Мирний</Name>
+		<BornName>Панас Рудченко</BornName>
+	</Autor>
+	<Autor>
+		<Name>Микола Хвильовий</Name>
+		<BornName>Микола Фітільов</BornName>
+	</Autor>
+	<Autor>
+		<Name>Леся Українка</Name>
+		<BornName>Лариса Косач-Квітка</BornName>
+	</Autor>
+	<Autor>
+		<Name>Остап Вишня</Name>
+		<BornName>Павло Губенко</BornName>
+	</Autor>
+	<Autor>
+		<Name>Іван Карпенко-Карий</Name>
+		<BornName>Іван Тобілевич</BornName>
+	</Autor>
+	<Autor>
+		<Name>Іван Багряний</Name>
+		<BornName>Іван Лозов'яга</BornName>
+	</Autor>
+	<Autor>
+		<Name>Олександр Олесь</Name>
+		<BornName>Олександр Кандиба</BornName>
+	</Autor>
+</Autors>

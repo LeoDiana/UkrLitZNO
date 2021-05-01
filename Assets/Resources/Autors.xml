@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Autors>
+	<Autor>
+		<Name>Панас Мирний</Name>
+		<BornName>Панас Рудченко</BornName>
+		<Movement>Реалізм</Movement>
+    <Quotes>
+      <Quote>"Корифей української прози"</Quote>
+      <Quote>"Перший симфоніст української прози" (О. Гончар)</Quote>
+      <Quote>"В цій людині билося палке серце патріота, справжнього гуманіста" (О. Гончар)</Quote>
+      <Quote>"Суворий літописець епохи" (О. Гончар)</Quote>
+      <Quote>"Найвизначніший український повістяр" (І. Франко)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Микола Хвильовий</Name>
+		<BornName>Микола Фітільов</BornName>
+		<Movement>Імпресіонізм</Movement>
+		<Group>ВАПЛІТЕ(засновник), Гарт, Пролітфронт</Group>
+    <Quotes>
+      <Quote>"Основоположник української прози ХХ ст."</Quote>
+      <Quote>"Геть від Москви! Дайош Європу!"</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Леся Українка</Name>
+		<BornName>Лариса Косач-Квітка</BornName>
+		<Movement>Неоромантизм</Movement>
+    <Quotes>
+      <Quote>"Дочка Прометея"</Quote>
+      <Quote>"Єдиний мужчина" (І. Франко)</Quote>
+      <Quote>"Геніальна жінка" (М. Павлик)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Остап Вишня</Name>
+		<BornName>Павло Губенко</BornName>
+		<Movement>Реалізм</Movement>
+		<Group>Плуг, Гарт</Group>
+    <Quotes>
+      <Quote>"Король українського тиражу"</Quote>
+      <Quote>"Справжній мисливець і при тому поет полювання" (М. Рильський)</Quote>
+      <Quote>"Чародій сміху"</Quote>
+    </Quotes>
+  </Autor>
+	<Autor>
+		<Name>Іван Карпенко-Карий</Name>
+		<BornName>Іван Тобілевич</BornName>
+		<Movement>Реалізм</Movement>
+		<Group>Театр коривеїв</Group>
+    <Quotes>
+      <Quote>"Один з батьків новочасного українського театру" (І. Франко)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Іван Багряний</Name>
+		<BornName>Іван Лозов'ягін</BornName>
+		<Movement>Неоромантизм</Movement>
+		<Group>МУР, МАРС</Group>
+	</Autor>
+	<Autor>
+		<Name>Олександр Олесь</Name>
+		<BornName>Олександр Кандиба</BornName>
+		<Movement>Символізм</Movement>
+    <Quotes>
+      <Quote>"Бард національного відродження" (Максим Горький)</Quote>
+      <Quote>"Український Гейне" (Х. Алчевська)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Євген Маланюк</Name>
+		<Movement>Символізм</Movement>
+		<Group>МУР, Празька школа</Group>
+    <Quotes>
+      <Quote>"Імператор залізних строф"</Quote>
+      <Quote>"Боян степової Еллади" (Л. Куценко)</Quote>
+      <Quote>"Я – кривавих шляхів апостол" (Є. Маланюк)</Quote>
+      <Quote>"Внук кремезного чумака, січовика блідий праправнук" (Є. Маланюк)</Quote>
+      <Quote>"Український Одіссей в Америці" (О.Тарнавський)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Григорій Сковорода</Name>
+		<Movement>Бароко</Movement>
+    <Quotes>
+      <Quote>"Український Сократ"</Quote>
+      <Quote>"Український Горацій"</Quote>
+      <Quote>"Український Езоп"</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Іван Котляревський</Name>
+		<Movement>Класицизм</Movement>
+    <Quotes>
+      <Quote>Зачинатель нової української літератури</Quote>
+      <Quote>"Коперник українського слова" (М. Рильський)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Григорій Квітка-Основ'яненко</Name>
+		<Movement>Сентименталізм</Movement>
+    <Quotes>
+      <Quote>"Батько україн­ської прози" (Т. Шевченко)</Quote>
+      <Quote>"Творець людової повісті" (І .Франко)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Тарас Шевченко</Name>
+		<Movement>Романтизм, пізніше реалізм</Movement>
+    <Quotes>
+      <Quote>"Він був сином мужика — і став володарем в царстві Духа. Він був кріпаком — і став ве­летнем у царстві людської культури" (І. Франко)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Пантелеймон Куліш</Name>
+		<Movement>Романтизм</Movement> 
+	</Autor>
+	<Autor>
+		<Name>Микола Куліш</Name>
+		<Movement>Експресіонізм</Movement>
+		<Group>ВАПЛІТЕ, Пролітфронт</Group>
+	</Autor>
+	<Autor>
+		<Name>Іван Нечуй-Левицький</Name>
+		<Movement>Реалізм</Movement>
+    <Quotes>
+      <Quote>"Великий артист зору" ( І. Франко)</Quote>
+      <Quote>"Всеобіймаюче око України" ( І. Франко)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Іван Франко</Name>
+		<Movement>Реалізм</Movement>
+    <Quotes>
+      <Quote>"Великий Каменяр" (М. Рильський)</Quote>
+      <Quote>"Титан думки і праці"</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Михайло Коцюбинський</Name>
+		<Movement>Імпресіонізм</Movement>
+    <Quotes>
+      <Quote>"Великий сонцепоклонник"</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Ольга Кобилянська</Name>
+		<Movement>Неоромантизм</Movement>
+    <Quotes>
+      <Quote>"Гірська орлиця"</Quote>
+      <Quote>"Пишна троянда в саду української літератури" (М. Старицький)</Quote>
+      <Quote>"Велика українська письменниця, бо час нічого не заподіяв її творам, а тільки утвердив їх в нашому народі" (В. Земляк)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Микола Вороний</Name>
+		<Movement>Символізм</Movement>
+	</Autor>
+	<Autor>
+		<Name>Павло Тичина</Name>
+		<Movement>Символізм</Movement>
+    <Quotes>
+      <Quote>"Дивний мрійник з очима дитини і розумом філософа" (С. Єфремов)</Quote>
+      <Quote>"Феномен доби" (В. Стус)</Quote>
+      <Quote>"Геній, примушений бути пігмеєм, блазень при дворі кривавого короля" (В. Стус)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Максим Рильський</Name>
+		<Movement>Неокласицизм</Movement>
+    <Quotes>
+      <Quote>"Золоте Серце"</Quote>
+      <Quote>"Досить витончений і складний поет" (М. Зеров)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Микола Зеров</Name>
+		<Movement>Неокласицизм</Movement>
+		<Group>Аспис</Group>
+	</Autor>
+	<Autor>
+		<Name>Юрій Яновський</Name>
+		<Movement>Неоромантизм</Movement>
+		<Group>ВАПЛІТЕ, Аспанфут</Group>
+    <Quotes>
+      <Quote>"Поет людської чистоти" (О. Гончар)</Quote>
+      <Quote>"У прозі був поетом" (Ю. Смолич)</Quote>
+      <Quote>"Лицар культури нації" (Г. Костюк)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Володимир Сосюра</Name>
+		<Movement>Неоромантизм</Movement>
+		<Group>Гарт</Group>
+    <Quotes>
+      <Quote>"Глибинно-бентежний березень та замріяно прозорий вересень" (М. Стельмах)</Quote>
+      <Quote>"Співець донецького краю"</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Валер'ян Підмогильний</Name>
+		<Movement>Екзистенціалізм</Movement>
+		<Group>Аспис, Ланка, МАРС</Group>
+	</Autor>
+	<Autor>
+		<Name>Богдан-Ігор Антонич</Name>
+	</Autor>
+	<Autor>
+		<Name>Олександр Довженко</Name>
+		<Group>ВАПЛІТЕ, Гарт</Group>
+    <Quotes>
+      <Quote>"Один  з основоположників національного кінематографа"</Quote>
+      <Quote>"Український  да Вінчі"  (А.Малишко)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Андрій Малишко</Name>
+	</Autor>
+	<Autor>
+		<Name>Василь Симоненко</Name>
+		<Movement>Шістдесятники</Movement>
+    <Quotes>
+      <Quote>"Витязь молодої української поезії" (О. Гончар)</Quote>
+      <Quote>"Поет з горніх Шевченкових вершин" (В. Захарченко)</Quote>
+      <Quote>"Cин мужицький, золоте коріння" (І. Драч)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Олесь Гончар</Name>
+		<Movement>Романтизм</Movement>
+	</Autor>
+	<Autor>
+		<Name>Григір Тютюнник</Name>
+		<Movement>Шістдесятники</Movement>
+    <Quotes>
+      <Quote>"Один із найвидатніших наших новелістів" (В. Шевчук)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Василь Стус</Name>
+		<Movement>Шістдесятники</Movement>
+    <Quotes>
+      <Quote>"Різьбяр власного духу" (І. Дзюба)</Quote>
+      <Quote>"Цільність і всеохопність… патріотизму" (М. Коцюбинська)</Quote>
+    </Quotes>
+	</Autor>
+	<Autor>
+		<Name>Іван Драч</Name>
+		<Movement>Шістдесятники</Movement>
+	</Autor>
+	<Autor>
+		<Name>Ліна Костенко</Name>
+		<Movement>Шістдесятники</Movement>
+    <Quotes>
+      <Quote>"Цитадель духу української літератури"</Quote>
+    </Quotes>
+	</Autor>
+</Autors>

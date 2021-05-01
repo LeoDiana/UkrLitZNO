@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Toggles>
+    <Toggle>0;t;</Toggle>
+    <Toggle>1;t;</Toggle>
+    <Toggle>2;t;</Toggle>
+  </Toggles>
+  <Theme>
+    <TextColor>0.1960784;0.1960784;0.1960784;1;</TextColor>
+    <BackgroundColor>0.9040567;0.6838235;1;1;</BackgroundColor>
+    <ButtonColor>1;1;1;1;</ButtonColor>
+  </Theme>
+</Settings>
